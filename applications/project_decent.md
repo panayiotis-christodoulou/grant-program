@@ -1,4 +1,4 @@
-# VeChain General Grant Application Template
+﻿# VeChain General Grant Application Template
 
 ## Project Overview 
 
@@ -14,6 +14,12 @@ Please provide the following:
 - A brief description of the project.
 - An indication of why your team is interested in creating this project within the VeChain Ecosystem.
 - If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
+
+Brief Description of the project
+
+The Global Agenda 2030 , a framework for sustainable development agreed upon by 193 states with 17 Sustainable Development Goals (SDGs) and 232 indicators covers a broad range of social and economic development issues including poverty, hunger, health, education, gender equality, clean water, sanitation, energy, environment, and social justice. Considering that Health & Safety at Work is a fundamental global value included in UN SDGs, the proposed project entitled "Decent.H&S" has as its main purpose to further enhance and optimize the processes that relate to safeguarding Occupational Health & Safety at work by leveraging on Distributed Ledger Technologies (DLTs). DLTs such as blockchains, provide the means to achieve sustainable development goals (SDGs) through private-public partnerships. More specifically this project utilizes Blockchain technology as a response to specific challenges that relate to trust, security, privacy and transparency.  Occupational Health & Safety is recognised as a crucial element in achieving the sustainable operation of corporate organizations of all types and sizes, in maintaining their profitability and business continuity. At the same time, it is a fundamental and indisputable component of ensuring social peace, people's well-being and prosperity. By utilizing Blockchain technology we ensure efficient management of Occupational Health & Safety tasks, legal requirements and policies implementation enforcement, crucial decisions felicitation, corrective actions acceleration, improvement of systems and functions modernization, to all involved stakeholders. 
+
+
 
 ### Project Details
 
